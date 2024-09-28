@@ -6,8 +6,8 @@ This analysis will help businesses identify what customers like and dislike and 
 For this problem statement, you can use complete data and cluster it to find top themes, the clustering model can be used to cluster newly occurring reviews in future automatically
 
 ## Report which give clear idea on below points.
- [x] ML model selected. 
+- [x] ML model selected. 
 - [x]	Features selected.
 - [x]	Feature importance
 - [x]	Evaluation of model
-  
+-

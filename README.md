@@ -5,4 +5,9 @@ Use only the ‘review_full’ text column from the data to cluster the reviews 
 This analysis will help businesses identify what customers like and dislike and improve the service accordingly.
 For this problem statement, you can use complete data and cluster it to find top themes, the clustering model can be used to cluster newly occurring reviews in future automatically
 
-##
+## Report which give clear idea on below points.
+ [x] ML model selected. 
+- [x]	Features selected.
+- [x]	Feature importance
+- [x]	Evaluation of model
+  
